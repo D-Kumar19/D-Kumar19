@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com/?user=D-Kumar19)](https://git.io/streak-stats)
 
 <!--
 **D-Kumar19/D-Kumar19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
