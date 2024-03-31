@@ -9,12 +9,12 @@ I'm a driven software engineer at *Nokia*, with a knack for cloud automation, co
 - **Fun-Loving Collaborator**: Convinced that the best solutions come from teams who laugh together. I aim to be the spark that ignites creativity and enthusiasm in my team.
 
 
+<br />
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=d-kumar19" alt="d-kumar19" />
   </a>
 </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +27,7 @@ I'm a driven software engineer at *Nokia*, with a knack for cloud automation, co
 </p>
 
 
+<br />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -137,6 +138,7 @@ I'm a driven software engineer at *Nokia*, with a knack for cloud automation, co
 </p>
 
 
+<br />
 <h3 align="center">📊 My GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d-kumar19&show_icons=true&locale=en&layout=compact"
@@ -150,7 +152,9 @@ I'm a driven software engineer at *Nokia*, with a knack for cloud automation, co
 </p>
 
 
+<br />
 <h3 align="center">📈 My Contributions</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-kumar19&" alt="d-kumar19" />
 </p>
+
