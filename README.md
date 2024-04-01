@@ -17,8 +17,9 @@ I'm a driven software engineer at *Nokia*, with a knack for cloud automation, co
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
 ![LinkedIn](https://skillicons.dev/icons?i=linkedin)
+<h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/dheeraj-kumar-a1b73b1bb/" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="[dheeraj-kumar-a1b73b1bb]" height="30" width="40" />
