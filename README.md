@@ -20,16 +20,16 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="./img/website_error.webp" target="blank" title="Portfolio - Dheeraj Kumar">
-    <img align="center" src="./img/globe.svg" width="50" style="padding-right:10px;"/>
+    <img align="center" src="./img/globe.svg" width="50" style="padding-right:20px;"/>
   </a>
   <a href="https://twitter.com/dheerajk1901" target="blank" title="Twitter - Dheeraj Kumar">
-    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="dheerak1902" width="40" style="padding-right:15px;"/>
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="dheerak1902" width="40" style="padding-right:25px;"/>
   </a>
   <a href="https://www.linkedin.com/in/dheeraj-kumar-a1b73b1bb/" target="blank" title="LinkedIn - Dheeraj Kumar">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="[dheeraj-kumar-a1b73b1bb]" width="40" style="padding-right:15px;"/>
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="[dheeraj-kumar-a1b73b1bb]" width="40" style="padding-right:25px;"/>
   </a>
   <a href="https://www.instagram.com/dk_vir19/" target="blank" title="Instagram - Dheeraj Kumar">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="[dheeraj-kumar-a1b73b1bb]" width="40" style="padding-right:15px;"/>
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="[dheeraj-kumar-a1b73b1bb]" width="40" style="padding-right:25px;"/>
   </a>
 </p>
 
@@ -106,7 +106,7 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 
 <!-- Cloud related tools and Languages -->
 [<img align="left" alt="Kubernetes" title="Kubernetes" width="35px" src="https://skillicons.dev/icons?i=kubernetes" style="padding-right:10px;" />](#)
-[<img align="left" alt="Helm" title="Helm" width="35px" src="./img/helm.png" style="padding-right:10px;" />](#)
+[<img align="left" alt="Helm" title="Helm" width="30px" src="./img/helm.png" style="padding-right:15px;" />](#)
 [<img align="left" alt="Docker" title="Docker" width="35px" src="https://skillicons.dev/icons?i=docker" style="padding-right:10px;" />](#)
 [<img align="left" alt="Open Policy Agent (OPA)" title="Open Policy Agent (OPA)" width="35px" src="./img/opa.png" style="padding-right:10px;" />](#)
 [<img align="left" alt="Kyverno" title="Kyverno" width="35px" src="./img/kyverno.png" style="padding-right:10px;" />](#)
