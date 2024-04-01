@@ -22,10 +22,10 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 
 ### Connect with me:
 
-[<img width="40px" alt="Portfolio" title="Portfolio - Dheeraj Kumar" src="./img/globe.svg"/>](./img/website_error.webp)
-[<img width="40px" alt="Twitter" title="Twitter - Dheeraj Kumar" src="./img/twitter.svg"/>](https://twitter.com/dheerajk1901)
-[<img width="40px" alt="LinkedIn" title="LinkedIn - Dheeraj Kumar" src="./img/linkedin.svg"/>](https://www.linkedin.com/in/dheeraj-kumar-a1b73b1bb/)
-[<img width="40px" alt="Instagram" title="Instagram - Dheeraj Kumar" src="./img/instagram.svg"/>](https://www.instagram.com/dk_vir19/)
+[<img width="40px" alt="Portfolio" title="Portfolio - Dheeraj Kumar" src="./img/globe.svg" style="padding-right:15px;"/>](./img/website_error.webp)
+[<img width="40px" alt="Twitter" title="Twitter - Dheeraj Kumar" src="./img/twitter.svg" style="padding-right:15px;"/>](https://twitter.com/dheerajk1901)
+[<img width="40px" alt="LinkedIn" title="LinkedIn - Dheeraj Kumar" src="./img/linkedin.svg" style="padding-right:15px;"/>](https://www.linkedin.com/in/dheeraj-kumar-a1b73b1bb/)
+[<img width="40px" alt="Instagram" title="Instagram - Dheeraj Kumar" src="./img/instagram.svg" style="padding-right:15px;"/>](https://www.instagram.com/dk_vir19/)
 
 
 ### Languages:
@@ -43,6 +43,7 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 [<img align="left" alt="CSS3" title="CSS3" width="35px" src="https://skillicons.dev/icons?i=css" style="padding-right:15px;" />](#)
 [<img align="left" alt="PHP" title="PHP" width="35px" src="https://skillicons.dev/icons?i=php" style="padding-right:15px;" />](#)
 <br clear="left"/>
+<br />
 
 
 ### Software and Tools:
@@ -87,9 +88,9 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 
 <!-- Database tools -->
 [<img align="left" alt="Oracle" title="Oracle" width="35px" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" style="padding-right:15px;" />](#)
+[<img align="left" alt="MySQL" title="MySQL" width="35px" src="https://skillicons.dev/icons?i=mysql" style="padding-right:15px;" />](#)
 <br clear="left"/> <!-- Adds spaces after new line -->
 
-[<img align="left" alt="MySQL" title="MySQL" width="35px" src="https://skillicons.dev/icons?i=mysql" style="padding-right:15px;" />](#)
 [<img align="left" alt="SQLite" title="SQLite" width="35px" src="https://skillicons.dev/icons?i=sqlite" style="padding-right:15px;" />](#)
 
 <!-- Remaining tools -->
@@ -97,6 +98,7 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 [<img align="left" alt="Markdown" title="Markdown" width="35px" src="https://skillicons.dev/icons?i=markdown" style="padding-right:15px;" />](#)
 [<img align="left" alt="Arduino" title="Arduino" width="35px" src="https://skillicons.dev/icons?i=arduino" style="padding-right:15px;" />](#)
 <br clear="left"/>
+<br />
 
 
 ### Currently Learning:
