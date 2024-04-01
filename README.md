@@ -20,21 +20,12 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 </p> -->
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="./img/website_error.webp" target="blank" title="Portfolio - Dheeraj Kumar">
-    <img align="center" src="./img/globe.svg" width="45"/>&nbsp;
-  </a>
-  <a href="https://twitter.com/dheerajk1901" target="blank" title="Twitter - Dheeraj Kumar">
-    <img align="center" src="./img/twitter.svg" alt="dheerak1902" width="40"/>&nbsp;
-  </a>
-  <a href="https://www.linkedin.com/in/dheeraj-kumar-a1b73b1bb/" target="blank" title="LinkedIn - Dheeraj Kumar">
-    <img align="center" src="./img/linkedin.svg" alt="dheeraj-kumar-a1b73b1bb" width="40"/>&nbsp;
-  </a>
-  <a href="https://www.instagram.com/dk_vir19/" target="blank" title="Instagram - Dheeraj Kumar">
-    <img align="center" src="./img/instagram.svg" alt="dheeraj-kumar-a1b73b1bb" width="40"/>
-  </a>
-</p>
+### Connect with me:
+
+[<img width="30" alt="Portfolio" title="Portfolio - Dheeraj Kumar" src="./img/globe.svg"/>](./img/website_error.webp)
+[<img width="30" alt="Twitter" title="Twitter - Dheeraj Kumar" src="./img/twitter.svg"/>](https://twitter.com/dheerajk1901)
+[<img width="30" alt="LinkedIn" title="LinkedIn - Dheeraj Kumar" src="./img/linkedin.svg"/>](https://www.linkedin.com/in/dheeraj-kumar-a1b73b1bb/)
+[<img width="30" alt="Instagram" title="Instagram - Dheeraj Kumar" src="./img/instagram.svg"/>](https://www.instagram.com/dk_vir19/)
 
 
 ### Languages:
