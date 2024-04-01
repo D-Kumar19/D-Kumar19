@@ -79,14 +79,12 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 </p>
 
 <h3 align="left">Currently Learning: </h3>
-<p align="left">
-  <img title="Kubernetes" width="35px" src="https://skillicons.dev/icons?i=kubernetes" style="padding-right:10px;" />
-  <img title="Docker" width="35px" src="https://skillicons.dev/icons?i=docker" style="padding-right:10px;" />
-  <img title="Open Policy Agent (OPA)" width="35px" src="./img/opa.png" style="padding-right:10px;" />
-  <img title="Kyverno" width="35px" src="./img/kyverno.png" style="padding-right:10px;" />
-  <img title="Go" width="35px" src="https://skillicons.dev/icons?i=go" style="padding-right:10px;" />
-  <img title="GNU Bash" width="35px" src="https://skillicons.dev/icons?i=bash" style="padding-right:10px;" />
-</p>
+<img align="left" alt="Kubernetes" alt="Kubernetes" width="26px" src="https://skillicons.dev/icons?i=kubernetes" style="padding-right:10px;" />
+<img align="left" alt="Docker" alt="Docker" width="26px" src="https://skillicons.dev/icons?i=docker" style="padding-right:10px;" />
+<img align="left" alt="Open Policy Agent (OPA)" alt="Open Policy Agent (OPA)" width="26px" src="./img/opa.png" style="padding-right:10px;" />
+<img align="left" alt="Kyverno" width="26px" alt="Kyverno" width="26px"src="./img/kyverno.png" style="padding-right:10px;" />
+<img align="left" alt="Go" alt="Go" width="26px" src="https://skillicons.dev/icons?i=go" style="padding-right:10px;" />
+<img align="left" alt="GNU Bash" alt="GNU Bash" width="26px" src="https://skillicons.dev/icons?i=bash" style="padding-right:10px;" />
 
 
 <!-- <br />
