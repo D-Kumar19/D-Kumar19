@@ -100,7 +100,7 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 [<img align="left" alt="Arduino" title="Arduino" width="35px" src="https://skillicons.dev/icons?i=arduino" style="padding-right:15px;" />](#)
 
 
-<br />
+<br /><br />
 
 ### Currently Learning:
 
@@ -126,7 +126,7 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 </p> -->
 
 
-<br />
+<br /><br />
 <h3 align="center">📈 My Contributions</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-kumar19&" alt="d-kumar19" title="GitHub Contributions - Dheeraj Kumar"/>
