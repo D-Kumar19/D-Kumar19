@@ -12,24 +12,26 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 <!-- <br />
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=d-kumar19" alt="d-kumar19" />
+    <img src="https://github-profile-trophy.vercel.app/?username=d-kumar19" alt="d-kumar19" title="GitHub Trophy - Dheeraj Kumar" />
   </a>
 </p> -->
 
 
-### Connect with me:
-
-[![website](./img/globe-light.svg)](./img/website_error.webp)
-[![website](./img/globe-dark.svg)](./img/website_error.webp)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dheeraj-kumar-a1b73b1bb/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dheeraj-kumar-a1b73b1bb/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/dheerajk1901/#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/dheerajk1901/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/dk_vir19/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/dk_vir19/#gh-dark-mode-only)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="./img/website_error.webp" target="blank" title="Portfolio - Dheeraj Kumar">
+    <img align="center" src="./img/globe.svg" width="50" style="padding-right:10px;"/>
+  </a>
+  <a href="https://twitter.com/dheerajk1901" target="blank" title="Twitter - Dheeraj Kumar">
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="dheerak1902" width="40" style="padding-right:15px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dheeraj-kumar-a1b73b1bb/" target="blank" title="LinkedIn - Dheeraj Kumar">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="[dheeraj-kumar-a1b73b1bb]" width="40" style="padding-right:15px;"/>
+  </a>
+  <a href="https://www.instagram.com/dk_vir19/" target="blank" title="Instagram - Dheeraj Kumar">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="[dheeraj-kumar-a1b73b1bb]" width="40" style="padding-right:15px;"/>
+  </a>
+</p>
 
 
 ### Languages:
@@ -47,6 +49,8 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 [<img align="left" alt="CSS3" title="CSS3" width="35px" src="https://skillicons.dev/icons?i=css" style="padding-right:15px;" />](#)
 [<img align="left" alt="PHP" title="PHP" width="35px" src="https://skillicons.dev/icons?i=php" style="padding-right:15px;" />](#)
 
+
+<br />
 
 ### Software and Tools:
 <!-- Cloud-related tools -->
@@ -96,6 +100,8 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 [<img align="left" alt="Arduino" title="Arduino" width="35px" src="https://skillicons.dev/icons?i=arduino" style="padding-right:15px;" />](#)
 
 
+<br />
+
 ### Currently Learning:
 
 <!-- Cloud related tools and Languages -->
@@ -108,22 +114,20 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 [<img align="left" alt="GNU Bash" title="GNU Bash" width="35px" src="https://skillicons.dev/icons?i=bash" style="padding-right:10px;" />](#)
 
 
-<br />
+<!-- <br />
 <h3 align="center">📊 My GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d-kumar19&show_icons=true&locale=en&layout=compact"
-  alt="d-kumar19" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d-kumar19&show_icons=true&locale=en&layout=compact" alt="d-kumar19" title="GitHub Stats - Dheeraj Kumar"/>
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d-kumar19&show_icons=true&locale=en"
-  alt="d-kumar19" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=d-kumar19&show_icons=true&locale=en" alt="d-kumar19" title="GitHub Stats - Dheeraj Kumar"/>
+</p> -->
 
 
 <br />
 <h3 align="center">📈 My Contributions</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-kumar19&" alt="d-kumar19" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-kumar19&" alt="d-kumar19" title="GitHub Contributions - Dheeraj Kumar"/>
 </p>
