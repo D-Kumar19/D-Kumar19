@@ -141,6 +141,9 @@ I'm a driven software engineer at *Nokia*, with a knack for cloud automation, co
     <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
     </a>
+    <a href="https://docs.pytest.org/en/8.0.x/" target="_blank" rel="noreferrer">
+        <img src="https://en.m.wikipedia.org/wiki/File:Pytest_logo.svg" alt="pytest" width="40" height="40"/>
+    </a>
     <a href="https://cucumber.io/" target="_blank" rel="noopener noreferrer">
         <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="40" height="40"/>
     </a>
@@ -169,9 +172,6 @@ I'm a driven software engineer at *Nokia*, with a knack for cloud automation, co
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://leetcode.com" target="_blank" rel="noreferrer">
-        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAADdUlEQVR4nO2Zz2sUMRTHPyyyRahF/IHgDxBBPPgf+ANpSz160KPn1luviidBtrv+D+tBBOsvaAtSL/XiSUHFi/+AsF4s1ap400jgDYRhZiezySYz434hDGTey/vmJS95SWCCCWLgFaBSZYsGowV0gfvAQkbnk7IgMl3RaQRawAOjk3/lu2rIrKb+KdFpNanzP4B1o4NLhtySUb8uso1wQtfo/HmpmwU6wLQhNy11+h8imzhBt1Fb9I1RLYtktug2aovLRlwno6txBliTUdblOXDM+D9rrAm6jUZsdR2j898ydoCvwHGR6TRhi1TGan/DiPk1qX8ho647vSl1j0RmWnSS3UGXSqEN3AO+DNnT84gni1sy2honpG4nQ76o/QHQE07B0LMgFsoBSdGcgmEgRs9ZhsBiRghsihN051+mkqN9JULggjETgkFZxOXWkEVwJ2cRPDriIhh8nVCWBs1tcM6o16P+FNgFvgOPHbfByjqgL3IbY06EKuuAbk4qvOI5Fa6sA1qWh6FFo35jhMNQZR0Q6jhcaQcgHVmReC66EOmLbJljcOUdULRFuub7Y3VA2yLtDZmOBufTq1g6GpzPwCLtDZmOBuejLOMr1EIUnI8ao8EZ4CbwTlLiX8AH4C5wOAKfoVNOT6s8XBxhyukp/HlI/OpzwtWAfLwsOum0dQpYBt7I6OpT4Gvgloy4kn9XgIMyI+bktkj/+5PhBBc+I6EtRgcltx19uvtYQPAhsCfH7m2R0Y465IGPV6iC+JoyOq+n+TW55DgCXAc+ycjvLbCTzIQ7jny8QxUYXDY6f8DBzry0896Rj3eoAoNv5b8eeRfMGAuiCx/vUAUGf8p/Pe1dsF/a+e3IxztUjsHkxccXoUtGW3oHeQacKsFnbFAZBk+nLjv1dueKsxmvSNvASQs+wR9AVOrFxzfMFySb4mUr7JUwqDIePHwjeUBRoU6EA4uT17AXn3E5QCdHRfByIlQlYiv94uMb5gvSE0sd57VBlWgg78XHd9ku4eCgDki/+Pju+K6MfJnZFdwBTdMnNoHY+sQmEFuf2ASC6rcd79vrro/rfXvd9XG9b6+7PrbxkidXd31iE4itj+t9e931cb1vr7s+rvftddfPhG1cNVWf2ARi6xObQGx9YhOIrU9sArH1iU0gir4qKE3XJzaB2PoT8D/hH/NOs+gpuKShAAAAAElFTkSuQmCC" alt="dsa" width="40" height="40"/>
     </a>
     <a href="https://golang.org" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/>
