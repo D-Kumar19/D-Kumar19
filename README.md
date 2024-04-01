@@ -150,22 +150,22 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
     <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
         <img src="./img/junit.png" alt="junit" width="30px"" style="padding-right:10px;"/>
     </a>
-    <a href="https://cucumber.io/" target="_blank" rel="noopener noreferrer">
+    <a target="_blank" rel="noopener noreferrer">
         <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="30px"" style="padding-right:10px;"/>
     </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <a target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="30px"" style="padding-right:10px;"/>
     </a>
-    <a href="https://mochajs.org" target="_blank" rel="noreferrer">
+    <a target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="30px"" style="padding-right:10px;"/>
     </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <a target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30px"" style="padding-right:10px;"/>
     </a>
-    <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
+    <a target="_blank" rel="noreferrer">
         <img src="./img/markdown.png" alt="markdown" width="30px"" style="padding-right:10px;"/>
     </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <a target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="30px"" style="padding-right:10px;"/>
     </a>
 </p>
@@ -173,25 +173,14 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 
 <h3 align="left">Currently Learning: </h3>
 <p align="left">
-    <a target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30px"" style="padding-right:10px;"/>
-    </a>
-    <a target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="30px"" style="padding-right:10px;"/>
-    </a>
-    <a target="_blank" rel="noreferrer">
-        <img src="./img/opa.png" alt="rego" width="30px"" style="padding-right:10px;"/>
-    </a>
-    <a target="_blank" rel="noreferrer">
-        <img src="./img/kyverno.png" alt="kyverno" width="30px"" style="padding-right:10px;"/>
-    </a>
-    <a target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="30px"" style="padding-right:10px;"/>
-    </a>
-    <a target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30px"" style="padding-right:10px;"/>
-    </a>
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="Kubernetes" width="30px" style="padding-right:10px;"/>
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" title="Docker" width="30px" style="padding-right:10px;"/>
+    <img src="./img/opa.png" alt="rego" title="Open Policy Agent (OPA)" width="30px" style="padding-right:10px;"/>
+    <img src="./img/kyverno.png" alt="kyverno" title="Kyverno" width="30px" style="padding-right:10px;"/>
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" title="Go Language" width="30px" style="padding-right:10px;"/>
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="GNU Bash" width="30px" style="padding-right:10px;"/>
 </p>
+
 
 <!-- <br />
 <h3 align="center">📊 My GitHub Stats</h3>
