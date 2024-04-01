@@ -22,10 +22,10 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 
 ### Connect with me:
 
-[<img width="40px" alt="Portfolio" title="Portfolio - Dheeraj Kumar" src="./img/globe.svg" style="padding-right:15px;"/>](./img/website_error.webp)
-[<img width="40px" alt="Twitter" title="Twitter - Dheeraj Kumar" src="./img/twitter.svg" style="padding-right:15px;"/>](https://twitter.com/dheerajk1901)
-[<img width="40px" alt="LinkedIn" title="LinkedIn - Dheeraj Kumar" src="./img/linkedin.svg" style="padding-right:15px;"/>](https://www.linkedin.com/in/dheeraj-kumar-a1b73b1bb/)
-[<img width="40px" alt="Instagram" title="Instagram - Dheeraj Kumar" src="./img/instagram.svg" style="padding-right:15px;"/>](https://www.instagram.com/dk_vir19/)
+[<img width="40px" alt="Portfolio" title="Portfolio - Dheeraj Kumar" src="./img/globe.svg" style="padding-right:25px;"/>](./img/website_error.png)
+[<img width="40px" alt="Twitter" title="Twitter - Dheeraj Kumar" src="./img/twitter.svg" style="padding-right:25px;"/>](https://twitter.com/dheerajk1901)
+[<img width="40px" alt="LinkedIn" title="LinkedIn - Dheeraj Kumar" src="./img/linkedin.svg" style="padding-right:25px;"/>](https://www.linkedin.com/in/dheeraj-kumar-a1b73b1bb/)
+[<img width="40px" alt="Instagram" title="Instagram - Dheeraj Kumar" src="./img/instagram.svg" style="padding-right:25px;"/>](https://www.instagram.com/dk_vir19/)
 
 
 ### Languages:
