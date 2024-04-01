@@ -9,6 +9,9 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 - **Fun-Loving Collaborator** 😄: Convinced that the best solutions come from teams who laugh together. I aim to be the spark that ignites creativity and enthusiasm in my team.
 
 
+---
+
+
 <!-- <br />
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -20,16 +23,16 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="./img/website_error.webp" target="blank" title="Portfolio - Dheeraj Kumar">
-    <img align="center" src="./img/globe.svg" width="50" style="padding-right:20px;"/>
+    <img align="center" src="./img/globe.svg" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://twitter.com/dheerajk1901" target="blank" title="Twitter - Dheeraj Kumar">
-    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="dheerak1902" width="40" style="padding-right:25px;"/>
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="dheerak1902" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://www.linkedin.com/in/dheeraj-kumar-a1b73b1bb/" target="blank" title="LinkedIn - Dheeraj Kumar">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="[dheeraj-kumar-a1b73b1bb]" width="40" style="padding-right:25px;"/>
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="dheeraj-kumar-a1b73b1bb" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://www.instagram.com/dk_vir19/" target="blank" title="Instagram - Dheeraj Kumar">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="[dheeraj-kumar-a1b73b1bb]" width="40" style="padding-right:25px;"/>
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="dheeraj-kumar-a1b73b1bb" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
 
@@ -114,8 +117,13 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 [<img align="left" alt="GNU Bash" title="GNU Bash" width="35px" src="https://skillicons.dev/icons?i=bash" style="padding-right:10px;" />](#)
 
 
-<!-- <br />
-<h3 align="center">📊 My GitHub Stats</h3>
+<br /><br />
+
+
+---
+
+
+<!-- <h3 align="center">📊 My GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d-kumar19&show_icons=true&locale=en&layout=compact" alt="d-kumar19" title="GitHub Stats - Dheeraj Kumar"/>
 </p>
