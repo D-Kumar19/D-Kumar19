@@ -23,16 +23,16 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="./img/website_error.webp" target="blank" title="Portfolio - Dheeraj Kumar">
-    <img align="center" src="./img/globe.svg" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="./img/globe.svg" width="50"/>&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://twitter.com/dheerajk1901" target="blank" title="Twitter - Dheeraj Kumar">
-    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="dheerak1902" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="dheerak1902" width="40"/>&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://www.linkedin.com/in/dheeraj-kumar-a1b73b1bb/" target="blank" title="LinkedIn - Dheeraj Kumar">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="dheeraj-kumar-a1b73b1bb" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="dheeraj-kumar-a1b73b1bb" width="40"/>&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://www.instagram.com/dk_vir19/" target="blank" title="Instagram - Dheeraj Kumar">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="dheeraj-kumar-a1b73b1bb" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="dheeraj-kumar-a1b73b1bb" width="40"/>&nbsp;&nbsp;&nbsp;
   </a>
 </p>
 
@@ -51,9 +51,8 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 [<img align="left" alt="HTML5" title="HTML5" width="35px" src="https://skillicons.dev/icons?i=html" style="padding-right:15px;" />](#)
 [<img align="left" alt="CSS3" title="CSS3" width="35px" src="https://skillicons.dev/icons?i=css" style="padding-right:15px;" />](#)
 [<img align="left" alt="PHP" title="PHP" width="35px" src="https://skillicons.dev/icons?i=php" style="padding-right:15px;" />](#)
+<br clear="left"/>
 
-
-<br /><br />
 
 ### Software and Tools:
 <!-- Cloud-related tools -->
@@ -101,9 +100,8 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 [<img align="left" alt="Unity" title="Unity" width="35px" src="https://skillicons.dev/icons?i=unity" style="padding-right:15px;" />](#)
 [<img align="left" alt="Markdown" title="Markdown" width="35px" src="https://skillicons.dev/icons?i=markdown" style="padding-right:15px;" />](#)
 [<img align="left" alt="Arduino" title="Arduino" width="35px" src="https://skillicons.dev/icons?i=arduino" style="padding-right:15px;" />](#)
+<br clear="left"/>
 
-
-<br /><br /><br /><br /><br />
 
 ### Currently Learning:
 
@@ -115,9 +113,7 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 [<img align="left" alt="Kyverno" title="Kyverno" width="35px" src="./img/kyverno.png" style="padding-right:10px;" />](#)
 [<img align="left" alt="Go" title="Go" width="35px" src="https://skillicons.dev/icons?i=go" style="padding-right:10px;" />](#)
 [<img align="left" alt="GNU Bash" title="GNU Bash" width="35px" src="https://skillicons.dev/icons?i=bash" style="padding-right:10px;" />](#)
-
-
-<br /><br />
+<br clear="left"/>
 
 
 ---
@@ -134,7 +130,6 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 </p> -->
 
 
-<br /><br />
 <h3 align="center">📈 My Contributions</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-kumar19&" alt="d-kumar19" title="GitHub Contributions - Dheeraj Kumar"/>
