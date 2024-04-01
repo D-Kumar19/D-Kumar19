@@ -141,9 +141,6 @@ I'm a driven software engineer at *Nokia*, with a knack for cloud automation, co
     <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
     </a>
-    <a href="https://docs.pytest.org/en/8.0.x/" target="_blank" rel="noreferrer">
-        <img src="https://en.m.wikipedia.org/wiki/File:Pytest_logo.svg" alt="pytest" width="40" height="40"/>
-    </a>
     <a href="https://cucumber.io/" target="_blank" rel="noopener noreferrer">
         <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="40" height="40"/>
     </a>
