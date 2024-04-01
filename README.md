@@ -17,19 +17,19 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 </p> -->
 
 
-<h3 align="left">Connect with me:</h3>
-  <a href="./img/website_error.webp="blank">
-    <img alt="[Portfolio - Dheeraj Kumar]" title="Portfolio - Dheeraj Kumar" src="./img/globe.svg" width="40px" style="padding-right:10px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dheeraj-kumar-a1b73b1bb/" target="blank">
-    <img alt="[dheeraj-kumar-a1b73b1bb]" title="LinkedIn - Dheeraj Kumar" src="https://skillicons.dev/icons?i=linkedin" width="40px" style="padding-right:10px;"/>
-  </a>
-  <a href="https://twitter.com/dheerajk1901" target="blank">
-    <img alt="[dheerak1902]" title="Twitter - Dheeraj Kumar" src="https://skillicons.dev/icons?i=twitter" width="40px" style="padding-right:10px;"/>
-  </a>
-  <a href="https://www.instagram.com/dk_vir19/" target="blank">
-    <img alt="[dk_vir19]" title="Instagram - Dheeraj Kumar" src="https://skillicons.dev/icons?i=instagram" width="40px" style="padding-right:10px;"/>
-  </a>
+### Connect with me:
+
+[![website](./img/globe-light.svg)](./img/website_error.webp)
+[![website](./img/globe-dark.svg)](./img/website_error.webp)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dheeraj-kumar-a1b73b1bb/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dheeraj-kumar-a1b73b1bb/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/dheerajk1901/#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/dheerajk1901/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/dk_vir19/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/dk_vir19/#gh-dark-mode-only)
 
 
 <h3 align="left">Languages: </h3>
@@ -97,13 +97,13 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 
 <h3 align="left">Currently Learning: </h3>
   <!-- Cloud related tools and Languages -->
-  <img alt="Kubernetes" alt="Kubernetes" width="35px" src="https://skillicons.dev/icons?i=kubernetes" style="padding-right:10px;" />
-  <img alt="Helm" alt="Helm" width="35px" src="./img/helm.png" style="padding-right:10px;" />
-  <img alt="Docker" alt="Docker" width="35px" src="https://skillicons.dev/icons?i=docker" style="padding-right:10px;" />
-  <img alt="Open Policy Agent (OPA)" alt="Open Policy Agent (OPA)" width="35px" src="./img/opa.png" style="padding-right:10px;" />
-  <img alt="Kyverno" width="35px" alt="Kyverno" width="35px"src="./img/kyverno.png" style="padding-right:10px;" />
-  <img alt="Go" alt="Go" width="35px" src="https://skillicons.dev/icons?i=go" style="padding-right:10px;" />
-  <img alt="GNU Bash" alt="GNU Bash" width="35px" src="https://skillicons.dev/icons?i=bash" style="padding-right:10px;" />
+  [<img align="left" alt="Kubernetes" alt="Kubernetes" width="35px" src="https://skillicons.dev/icons?i=kubernetes" style="padding-right:10px;" />](#)
+  [<img align="left" alt="Helm" alt="Helm" width="35px" src="./img/helm.png" style="padding-right:10px;" />](#)
+  [<img align="left" alt="Docker" alt="Docker" width="35px" src="https://skillicons.dev/icons?i=docker" style="padding-right:10px;" />](#)
+  [<img align="left" alt="Open Policy Agent (OPA)" alt="Open Policy Agent (OPA)" width="35px" src="./img/opa.png" style="padding-right:10px;" />](#)
+  [<img align="left" alt="Kyverno" width="35px" alt="Kyverno" width="35px"src="./img/kyverno.png" style="padding-right:10px;" />](#)
+  [<img align="left" alt="Go" alt="Go" width="35px" src="https://skillicons.dev/icons?i=go" style="padding-right:10px;" />](#)
+  [<img align="left" alt="GNU Bash" alt="GNU Bash" width="35px" src="https://skillicons.dev/icons?i=bash" style="padding-right:10px;" />](#)
 
 
 <br />
