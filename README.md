@@ -100,7 +100,7 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 [<img align="left" alt="Arduino" title="Arduino" width="35px" src="https://skillicons.dev/icons?i=arduino" style="padding-right:15px;" />](#)
 
 
-<br /><br />
+<br /><br /><br /><br /><hr />
 
 ### Currently Learning:
 
