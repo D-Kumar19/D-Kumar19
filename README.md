@@ -32,78 +32,80 @@ I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automatio
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/dk_vir19/#gh-dark-mode-only)
 
 
-<h3 align="left">Languages: </h3>
-  <!-- Backend Languages -->
-  <img alt="Java" title="Java" width="35px" src="https://skillicons.dev/icons?i=java" style="padding-right:15px;" />
-  <img alt="Python" title="Python" width="35px" src="https://skillicons.dev/icons?i=python" style="padding-right:15px;" />
-  <img alt="Go" title="Go" width="35px" src="https://skillicons.dev/icons?i=go" style="padding-right:15px;" />
-  <img alt="C++" title="C++" width="35px" src="https://skillicons.dev/icons?i=cpp" style="padding-right:15px;" />
-  <img alt="C" title="C" width="35px" src="https://skillicons.dev/icons?i=c" style="padding-right:15px;" />
-  <img alt="C#" title="C#" width="35px" src="https://skillicons.dev/icons?i=cs" style="padding-right:15px;" />
+### Languages:
 
-  <!-- Frontend Languages -->
-  <img alt="HTML5" title="HTML5" width="35px" src="https://skillicons.dev/icons?i=html" style="padding-right:15px;" />
-  <img alt="CSS3" title="CSS3" width="35px" src="https://skillicons.dev/icons?i=css" style="padding-right:15px;" />
-  <img alt="PHP" title="PHP" width="35px" src="https://skillicons.dev/icons?i=php" style="padding-right:15px;" />
+<!-- Backend Languages -->
+[<img align="left" alt="Java" title="Java" width="35px" src="https://skillicons.dev/icons?i=java" style="padding-right:15px;" />](#)
+[<img align="left" alt="Python" title="Python" width="35px" src="https://skillicons.dev/icons?i=python" style="padding-right:15px;" />](#)
+[<img align="left" alt="Go" title="Go" width="35px" src="https://skillicons.dev/icons?i=go" style="padding-right:15px;" />](#)
+[<img align="left" alt="C++" title="C++" width="35px" src="https://skillicons.dev/icons?i=cpp" style="padding-right:15px;" />](#)
+[<img align="left" alt="C" title="C" width="35px" src="https://skillicons.dev/icons?i=c" style="padding-right:15px;" />](#)
+[<img align="left" alt="C#" title="C#" width="35px" src="https://skillicons.dev/icons?i=cs" style="padding-right:15px;" />](#)
+
+<!-- Frontend Languages -->
+[<img align="left" alt="HTML5" title="HTML5" width="35px" src="https://skillicons.dev/icons?i=html" style="padding-right:15px;" />](#)
+[<img align="left" alt="CSS3" title="CSS3" width="35px" src="https://skillicons.dev/icons?i=css" style="padding-right:15px;" />](#)
+[<img align="left" alt="PHP" title="PHP" width="35px" src="https://skillicons.dev/icons?i=php" style="padding-right:15px;" />](#)
 
 
-<h3 align="left">Software and Tools: </h3>
-  <!-- Cloud-related tools -->
-  <img alt="Git" title="Git" width="35px" src="https://skillicons.dev/icons?i=git" style="padding-right:15px;" />
-  <img alt="PowerShell" title="PowerShell" width="35px" src="https://skillicons.dev/icons?i=powershell" style="padding-right:15px;" />
-  <img alt="GitHub" title="GitHub" width="35px" src="https://skillicons.dev/icons?i=github" style="padding-right:15px;" />
-  <img alt="GitLab" title="GitLab" width="35px" src="https://skillicons.dev/icons?i=gitlab" style="padding-right:15px;" />
-  <img alt="Jenkins" title="Jenkins" width="35px" src="https://skillicons.dev/icons?i=jenkins" style="padding-right:15px;" />
-  <img alt="Microsoft Azure" title="Microsoft Azure" width="35px" src="https://skillicons.dev/icons?i=azure" style="padding-right:15px;" />
-  <img alt="Linux" title="Linux" width="35px" src="https://skillicons.dev/icons?i=linux" style="padding-right:15px;" />
-  <img alt="Ubuntu" title="Ubuntu" width="35px" src="https://skillicons.dev/icons?i=ubuntu" style="padding-right:15px;" />
-  <img alt="JIRA" title="JIRA" width="35px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" style="padding-right:15px;" />
-  <img alt="Confluence" title="Confluence" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/confluence/confluence-original.svg" style="padding-right:15px;" />
-  <img alt="CMake" title="CMake" width="35px" src="https://skillicons.dev/icons?i=cmake" style="padding-right:15px;" />
-  <img alt="Gradle" title="Gradle" width="35px" src="https://skillicons.dev/icons?i=gradle" style="padding-right:15px;" />
-  <img alt="Maven" title="Maven" width="35px" src="https://skillicons.dev/icons?i=maven" style="padding-right:15px;" />
-  <img alt="Spring" title="Spring" width="35px" src="https://skillicons.dev/icons?i=spring" style="padding-right:15px;" />
+### Software and Tools:
+<!-- Cloud-related tools -->
+[<img align="left" alt="Git" title="Git" width="35px" src="https://skillicons.dev/icons?i=git" style="padding-right:15px;" />](#)
+[<img align="left" alt="PowerShell" title="PowerShell" width="35px" src="https://skillicons.dev/icons?i=powershell" style="padding-right:15px;" />](#)
+[<img align="left" alt="GitHub" title="GitHub" width="35px" src="https://skillicons.dev/icons?i=github" style="padding-right:15px;" />](#)
+[<img align="left" alt="GitLab" title="GitLab" width="35px" src="https://skillicons.dev/icons?i=gitlab" style="padding-right:15px;" />](#)
+[<img align="left" alt="Jenkins" title="Jenkins" width="35px" src="https://skillicons.dev/icons?i=jenkins" style="padding-right:15px;" />](#)
+[<img align="left" alt="Microsoft Azure" title="Microsoft Azure" width="35px" src="https://skillicons.dev/icons?i=azure" style="padding-right:15px;" />](#)
+[<img align="left" alt="Linux" title="Linux" width="35px" src="https://skillicons.dev/icons?i=linux" style="padding-right:15px;" />](#)
+[<img align="left" alt="Ubuntu" title="Ubuntu" width="35px" src="https://skillicons.dev/icons?i=ubuntu" style="padding-right:15px;" />](#)
+[<img align="left" alt="JIRA" title="JIRA" width="35px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" style="padding-right:15px;" />](#)
+[<img align="left" alt="Confluence" title="Confluence" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/confluence/confluence-original.svg" style="padding-right:15px;" />](#)
+[<img align="left" alt="CMake" title="CMake" width="35px" src="https://skillicons.dev/icons?i=cmake" style="padding-right:15px;" />](#)
+[<img align="left" alt="Gradle" title="Gradle" width="35px" src="https://skillicons.dev/icons?i=gradle" style="padding-right:15px;" />](#)
+[<img align="left" alt="Maven" title="Maven" width="35px" src="https://skillicons.dev/icons?i=maven" style="padding-right:15px;" />](#)
+[<img align="left" alt="Spring" title="Spring" width="35px" src="https://skillicons.dev/icons?i=spring" style="padding-right:15px;" />](#)
 
-  <!-- Testing tools -->
-  <img alt="Selenium" title="Selenium" width="35px" src="https://skillicons.dev/icons?i=selenium" style="padding-right:15px;" />
-  <img alt="JUnit" title="JUnit" width="35px" src="./img/junit.png" style="padding-right:15px;" />
-  <img alt="PyTest" title="PyTest" width="35px" src="./img/pytest.svg" style="padding-right:15px;" />
-  <img alt="Cucumber" title="Cucumber" width="35px" src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" style="padding-right:15px;" />
+<!-- Testing tools -->
+[<img align="left" alt="Selenium" title="Selenium" width="35px" src="https://skillicons.dev/icons?i=selenium" style="padding-right:15px;" />](#)
+[<img align="left" alt="JUnit" title="JUnit" width="35px" src="./img/junit.png" style="padding-right:15px;" />](#)
+[<img align="left" alt="PyTest" title="PyTest" width="35px" src="./img/pytest.svg" style="padding-right:15px;" />](#)
+[<img align="left" alt="Cucumber" title="Cucumber" width="35px" src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" style="padding-right:15px;" />](#)
 
-  <!-- Mathematical and Python libraries -->
-  <img alt="Anaconda" title="Anaconda" width="35px" src="https://skillicons.dev/icons?i=anaconda" style="padding-right:15px;" />
-  <img alt="NumPy" title="NumPy" width="35px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" style="padding-right:15px;" />
-  <img alt="Pandas" title="Pandas" width="35px" src="./img/pandas.png" style="padding-right:15px;" />
-  <img alt="MATLAB" title="MATLAB" width="35px" src="https://skillicons.dev/icons?i=matlab" style="padding-right:15px;" />
-  <img alt="TensorFlow" title="TensorFlow" width="35px" src="https://skillicons.dev/icons?i=tensorflow" style="padding-right:15px;" />
-  <img alt="PyTorch" title="PyTorch" width="35px" src="https://skillicons.dev/icons?i=pytorch" style="padding-right:15px;" />
-  <img alt="Scikit Learn" title="Scikit Learn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding-right:15px;" />
-  <img alt="OpenCV" title="OpenCV" width="35px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="padding-right:15px;" />
+<!-- Mathematical and Python libraries -->
+[<img align="left" alt="Anaconda" title="Anaconda" width="35px" src="https://skillicons.dev/icons?i=anaconda" style="padding-right:15px;" />](#)
+[<img align="left" alt="NumPy" title="NumPy" width="35px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" style="padding-right:15px;" />](#)
+[<img align="left" alt="Pandas" title="Pandas" width="35px" src="./img/pandas.png" style="padding-right:15px;" />](#)
+[<img align="left" alt="MATLAB" title="MATLAB" width="35px" src="https://skillicons.dev/icons?i=matlab" style="padding-right:15px;" />](#)
+[<img align="left" alt="TensorFlow" title="TensorFlow" width="35px" src="https://skillicons.dev/icons?i=tensorflow" style="padding-right:15px;" />](#)
+[<img align="left" alt="PyTorch" title="PyTorch" width="35px" src="https://skillicons.dev/icons?i=pytorch" style="padding-right:15px;" />](#)
+[<img align="left" alt="Scikit Learn" title="Scikit Learn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding-right:15px;" />](#)
+[<img align="left" alt="OpenCV" title="OpenCV" width="35px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="padding-right:15px;" />](#)
 
-  <!-- Mobile Application Development tools -->
-  <img alt="Android Studio" title="Android Studio" width="35px" src="https://skillicons.dev/icons?i=androidstudio" style="padding-right:15px;" />
-  <img alt="Kotlin" title="Kotlin" width="35px" src="https://skillicons.dev/icons?i=kotlin" style="padding-right:15px;" />
+<!-- Mobile Application Development tools -->
+[<img align="left" alt="Android Studio" title="Android Studio" width="35px" src="https://skillicons.dev/icons?i=androidstudio" style="padding-right:15px;" />](#)
+[<img align="left" alt="Kotlin" title="Kotlin" width="35px" src="https://skillicons.dev/icons?i=kotlin" style="padding-right:15px;" />](#)
 
-  <!-- Database tools -->
-  <img alt="Oracle" title="Oracle" width="35px" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" style="padding-right:15px;" />
-  <img alt="MySQL" title="MySQL" width="35px" src="https://skillicons.dev/icons?i=mysql" style="padding-right:15px;" />
-  <img alt="SQLite" title="SQLite" width="35px" src="https://skillicons.dev/icons?i=sqlite" style="padding-right:15px;" />
+<!-- Database tools -->
+[<img align="left" alt="Oracle" title="Oracle" width="35px" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" style="padding-right:15px;" />](#)
+[<img align="left" alt="MySQL" title="MySQL" width="35px" src="https://skillicons.dev/icons?i=mysql" style="padding-right:15px;" />](#)
+[<img align="left" alt="SQLite" title="SQLite" width="35px" src="https://skillicons.dev/icons?i=sqlite" style="padding-right:15px;" />](#)
 
-  <!-- Remaining tools -->
-  <img alt="Unity" title="Unity" width="35px" src="https://skillicons.dev/icons?i=unity" style="padding-right:15px;" />
-  <img alt="Markdown" title="Markdown" width="35px" src="https://skillicons.dev/icons?i=markdown" style="padding-right:15px;" />
-  <img alt="Arduino" title="Arduino" width="35px" src="https://skillicons.dev/icons?i=arduino" style="padding-right:15px;" />
-</p>
+<!-- Remaining tools -->
+[<img align="left" alt="Unity" title="Unity" width="35px" src="https://skillicons.dev/icons?i=unity" style="padding-right:15px;" />](#)
+[<img align="left" alt="Markdown" title="Markdown" width="35px" src="https://skillicons.dev/icons?i=markdown" style="padding-right:15px;" />](#)
+[<img align="left" alt="Arduino" title="Arduino" width="35px" src="https://skillicons.dev/icons?i=arduino" style="padding-right:15px;" />](#)
 
-<h3 align="left">Currently Learning: </h3>
-  <!-- Cloud related tools and Languages -->
-  [<img align="left" alt="Kubernetes" alt="Kubernetes" width="35px" src="https://skillicons.dev/icons?i=kubernetes" style="padding-right:10px;" />](#)
-  [<img align="left" alt="Helm" alt="Helm" width="35px" src="./img/helm.png" style="padding-right:10px;" />](#)
-  [<img align="left" alt="Docker" alt="Docker" width="35px" src="https://skillicons.dev/icons?i=docker" style="padding-right:10px;" />](#)
-  [<img align="left" alt="Open Policy Agent (OPA)" alt="Open Policy Agent (OPA)" width="35px" src="./img/opa.png" style="padding-right:10px;" />](#)
-  [<img align="left" alt="Kyverno" width="35px" alt="Kyverno" width="35px"src="./img/kyverno.png" style="padding-right:10px;" />](#)
-  [<img align="left" alt="Go" alt="Go" width="35px" src="https://skillicons.dev/icons?i=go" style="padding-right:10px;" />](#)
-  [<img align="left" alt="GNU Bash" alt="GNU Bash" width="35px" src="https://skillicons.dev/icons?i=bash" style="padding-right:10px;" />](#)
+
+### Currently Learning:
+
+<!-- Cloud related tools and Languages -->
+[<img align="left" alt="Kubernetes" title="Kubernetes" width="35px" src="https://skillicons.dev/icons?i=kubernetes" style="padding-right:10px;" />](#)
+[<img align="left" alt="Helm" title="Helm" width="35px" src="./img/helm.png" style="padding-right:10px;" />](#)
+[<img align="left" alt="Docker" title="Docker" width="35px" src="https://skillicons.dev/icons?i=docker" style="padding-right:10px;" />](#)
+[<img align="left" alt="Open Policy Agent (OPA)" title="Open Policy Agent (OPA)" width="35px" src="./img/opa.png" style="padding-right:10px;" />](#)
+[<img align="left" alt="Kyverno" title="Kyverno" width="35px" src="./img/kyverno.png" style="padding-right:10px;" />](#)
+[<img align="left" alt="Go" title="Go" width="35px" src="https://skillicons.dev/icons?i=go" style="padding-right:10px;" />](#)
+[<img align="left" alt="GNU Bash" title="GNU Bash" width="35px" src="https://skillicons.dev/icons?i=bash" style="padding-right:10px;" />](#)
 
 
 <br />
