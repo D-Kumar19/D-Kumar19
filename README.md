@@ -88,9 +88,3 @@ Open to **Platform Engineering**, **SRE**, and **DevOps** roles in Vienna.
 - **IBM DevOps and Software Engineering Professional Certificate** — [Credly](https://www.credly.com/)
 - **IBM Applied DevOps Engineering Specialization** — Coursera
 - **Software Development Lifecycle** — University of Minnesota, Coursera
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-kumar19&" alt="d-kumar19" />
-</p>
