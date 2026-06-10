@@ -1,134 +1,96 @@
-<h1 align="center">Hello 👋, I'm Dheeraj Kumar 🧑🏻 </h1>
+<h1 align="center">Dheeraj Kumar</h1>
+<h3 align="center">Platform Engineer · SRE · Kubernetes</h3>
 
-## 🌱 About Me
-
-I'm a driven software engineer at *Nokia* 🚀, with a knack for cloud automation, containerization, and tackling complex challenges in Java, Python, Go, C++, and C. I bring a solid mix of technical expertise and a passion for continuous growth and collaboration. Here are a few highlights about me:
-
-- **Team Player** 🤼: Eager to lend a hand, making our collective journey forward as fun as it is fruitful.
-- **Knowledge Seeker** 🕵️‍♂️: Forever exploring new technologies, turning curiosity into expertise.
-- **Fun-Loving Collaborator** 😄: Convinced that the best solutions come from teams who laugh together. I aim to be the spark that ignites creativity and enthusiasm in my team.
-
-
----
-
-
-<!-- <br />
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=d-kumar19" alt="d-kumar19" title="GitHub Trophy - Dheeraj Kumar" />
-  </a>
-</p> -->
-
-
-### Connect with me:
-
-[<img width="40px" alt="Portfolio" title="Portfolio - Dheeraj Kumar" src="./img/globe.svg" style="padding-right:25px;"/>](./img/website_error.png)
-[<img width="40px" alt="Twitter" title="Twitter - Dheeraj Kumar" src="./img/twitter.svg" style="padding-right:25px;"/>](https://twitter.com/dheerajk1901)
-[<img width="40px" alt="LinkedIn" title="LinkedIn - Dheeraj Kumar" src="./img/linkedin.svg" style="padding-right:25px;"/>](https://www.linkedin.com/in/dheeraj-kumar-a1b73b1bb/)
-[<img width="40px" alt="Instagram" title="Instagram - Dheeraj Kumar" src="./img/instagram.svg" style="padding-right:25px;"/>](https://www.instagram.com/dk_vir19/)
-
-
-### Languages:
-
-<!-- Backend Languages -->
-[<img align="left" alt="Java" title="Java" width="35px" src="https://skillicons.dev/icons?i=java" style="padding-right:15px;" />](#)
-[<img align="left" alt="Python" title="Python" width="35px" src="https://skillicons.dev/icons?i=python" style="padding-right:15px;" />](#)
-[<img align="left" alt="Go" title="Go" width="35px" src="https://skillicons.dev/icons?i=go" style="padding-right:15px;" />](#)
-[<img align="left" alt="C++" title="C++" width="35px" src="https://skillicons.dev/icons?i=cpp" style="padding-right:15px;" />](#)
-[<img align="left" alt="C" title="C" width="35px" src="https://skillicons.dev/icons?i=c" style="padding-right:15px;" />](#)
-[<img align="left" alt="C#" title="C#" width="35px" src="https://skillicons.dev/icons?i=cs" style="padding-right:15px;" />](#)
-
-<!-- Frontend Languages -->
-[<img align="left" alt="HTML5" title="HTML5" width="35px" src="https://skillicons.dev/icons?i=html" style="padding-right:15px;" />](#)
-[<img align="left" alt="CSS3" title="CSS3" width="35px" src="https://skillicons.dev/icons?i=css" style="padding-right:15px;" />](#)
-[<img align="left" alt="PHP" title="PHP" width="35px" src="https://skillicons.dev/icons?i=php" style="padding-right:15px;" />](#)
-<br clear="left"/>
-<br />
-
-
-### Software and Tools:
-
-<!-- Cloud-related tools -->
-[<img align="left" alt="Git" title="Git" width="35px" src="https://skillicons.dev/icons?i=git" style="padding-right:15px;" />](#)
-[<img align="left" alt="PowerShell" title="PowerShell" width="35px" src="https://skillicons.dev/icons?i=powershell" style="padding-right:15px;" />](#)
-[<img align="left" alt="GitHub" title="GitHub" width="35px" src="https://skillicons.dev/icons?i=github" style="padding-right:15px;" />](#)
-[<img align="left" alt="GitLab" title="GitLab" width="35px" src="https://skillicons.dev/icons?i=gitlab" style="padding-right:15px;" />](#)
-[<img align="left" alt="Jenkins" title="Jenkins" width="35px" src="https://skillicons.dev/icons?i=jenkins" style="padding-right:15px;" />](#)
-[<img align="left" alt="Microsoft Azure" title="Microsoft Azure" width="35px" src="https://skillicons.dev/icons?i=azure" style="padding-right:15px;" />](#)
-[<img align="left" alt="Linux" title="Linux" width="35px" src="https://skillicons.dev/icons?i=linux" style="padding-right:15px;" />](#)
-[<img align="left" alt="Ubuntu" title="Ubuntu" width="35px" src="https://skillicons.dev/icons?i=ubuntu" style="padding-right:15px;" />](#)
-[<img align="left" alt="JIRA" title="JIRA" width="35px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" style="padding-right:15px;" />](#)
-[<img align="left" alt="Confluence" title="Confluence" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/confluence/confluence-original.svg" style="padding-right:15px;" />](#)
-[<img align="left" alt="CMake" title="CMake" width="35px" src="https://skillicons.dev/icons?i=cmake" style="padding-right:15px;" />](#)
-[<img align="left" alt="Gradle" title="Gradle" width="35px" src="https://skillicons.dev/icons?i=gradle" style="padding-right:15px;" />](#)
-[<img align="left" alt="Maven" title="Maven" width="35px" src="https://skillicons.dev/icons?i=maven" style="padding-right:15px;" />](#)
-[<img align="left" alt="Spring" title="Spring" width="35px" src="https://skillicons.dev/icons?i=spring" style="padding-right:15px;" />](#)
-
-<!-- Testing tools -->
-[<img align="left" alt="Selenium" title="Selenium" width="35px" src="https://skillicons.dev/icons?i=selenium" style="padding-right:15px;" />](#)
-<br clear="left"/> <!-- Adds spaces after new line -->
-
-[<img align="left" alt="JUnit" title="JUnit" width="35px" src="./img/junit.png" style="padding-right:15px;" />](#)
-[<img align="left" alt="PyTest" title="PyTest" width="35px" src="./img/pytest.svg" style="padding-right:15px;" />](#)
-[<img align="left" alt="Cucumber" title="Cucumber" width="35px" src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" style="padding-right:15px;" />](#)
-
-<!-- Mathematical and Python libraries -->
-[<img align="left" alt="Anaconda" title="Anaconda" width="35px" src="https://skillicons.dev/icons?i=anaconda" style="padding-right:15px;" />](#)
-[<img align="left" alt="NumPy" title="NumPy" width="35px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" style="padding-right:15px;" />](#)
-[<img align="left" alt="Pandas" title="Pandas" width="35px" src="./img/pandas.png" style="padding-right:15px;" />](#)
-[<img align="left" alt="MATLAB" title="MATLAB" width="35px" src="https://skillicons.dev/icons?i=matlab" style="padding-right:15px;" />](#)
-[<img align="left" alt="TensorFlow" title="TensorFlow" width="35px" src="https://skillicons.dev/icons?i=tensorflow" style="padding-right:15px;" />](#)
-[<img align="left" alt="PyTorch" title="PyTorch" width="35px" src="https://skillicons.dev/icons?i=pytorch" style="padding-right:15px;" />](#)
-[<img align="left" alt="Scikit Learn" title="Scikit Learn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding-right:15px;" />](#)
-[<img align="left" alt="OpenCV" title="OpenCV" width="35px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="padding-right:15px;" />](#)
-
-<!-- Mobile Application Development tools -->
-[<img align="left" alt="Android Studio" title="Android Studio" width="35px" src="https://skillicons.dev/icons?i=androidstudio" style="padding-right:15px;" />](#)
-[<img align="left" alt="Kotlin" title="Kotlin" width="35px" src="https://skillicons.dev/icons?i=kotlin" style="padding-right:15px;" />](#)
-
-<!-- Database tools -->
-[<img align="left" alt="Oracle" title="Oracle" width="35px" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" style="padding-right:15px;" />](#)
-[<img align="left" alt="MySQL" title="MySQL" width="35px" src="https://skillicons.dev/icons?i=mysql" style="padding-right:15px;" />](#)
-<br clear="left"/> <!-- Adds spaces after new line -->
-
-[<img align="left" alt="SQLite" title="SQLite" width="35px" src="https://skillicons.dev/icons?i=sqlite" style="padding-right:15px;" />](#)
-
-<!-- Remaining tools -->
-[<img align="left" alt="Unity" title="Unity" width="35px" src="https://skillicons.dev/icons?i=unity" style="padding-right:15px;" />](#)
-[<img align="left" alt="Markdown" title="Markdown" width="35px" src="https://skillicons.dev/icons?i=markdown" style="padding-right:15px;" />](#)
-[<img align="left" alt="Arduino" title="Arduino" width="35px" src="https://skillicons.dev/icons?i=arduino" style="padding-right:15px;" />](#)
-<br clear="left"/>
-<br />
-
-
-### Currently Learning:
-
-<!-- Cloud related tools and Languages -->
-[<img align="left" alt="Kubernetes" title="Kubernetes" width="35px" src="https://skillicons.dev/icons?i=kubernetes" style="padding-right:10px;" />](#)
-[<img align="left" alt="Helm" title="Helm" width="30px" height="35px" src="./img/helm.png" style="padding-right:15px;" />](#)
-[<img align="left" alt="Docker" title="Docker" width="35px" src="https://skillicons.dev/icons?i=docker" style="padding-right:10px;" />](#)
-[<img align="left" alt="Open Policy Agent (OPA)" title="Open Policy Agent (OPA)" width="35px" src="./img/opa.png" style="padding-right:10px;" />](#)
-[<img align="left" alt="Kyverno" title="Kyverno" width="40px" height="35px" src="./img/kyverno.png" style="padding-right:10px;" />](#)
-[<img align="left" alt="Go" title="Go" width="35px" src="https://skillicons.dev/icons?i=go" style="padding-right:10px;" />](#)
-[<img align="left" alt="GNU Bash" title="GNU Bash" width="35px" src="https://skillicons.dev/icons?i=bash" style="padding-right:10px;" />](#)
-<br clear="left"/>
-
-
----
-
-
-<!-- <h3 align="center">📊 My GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d-kumar19&show_icons=true&locale=en&layout=compact" alt="d-kumar19" title="GitHub Stats - Dheeraj Kumar"/>
+  <a href="https://www.linkedin.com/in/dheeraj-kumar-a1b73b1bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/D-Kumar19">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
+---
+
+### About
+
+Software Engineer at **Nokia** with 3+ years building Kubernetes-based platforms, Operators, and CI/CD systems at production scale. Currently pursuing an **MSc in Artificial Intelligence** at Johannes Kepler University Linz.
+
+- Built and led delivery of Go and Python-based platform tooling adopted across 100+ internal teams
+- Refactored CI/CD pipelines cutting runtime by 60%
+- Shipped Kubernetes Operators, Helm charts, and GitOps workflows across OpenShift, EKS, GKE, and Tanzu
+- Preparing for **CKA** (target July 2026)
+
+Open to **Platform Engineering**, **SRE**, and **DevOps** roles in Vienna.
+
+---
+
+### Stack
+
+**Kubernetes & Cloud-Native**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![etcd](https://img.shields.io/badge/etcd-419EDA?style=flat&logo=etcd&logoColor=white)
+
+**CI/CD & Automation**
+
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Tekton](https://img.shields.io/badge/Tekton-FD495C?style=flat&logo=tekton&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+
+**Programming**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Observability & Policy**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![OPA](https://img.shields.io/badge/OPA-7D9AAA?style=flat&logo=openpolicyagent&logoColor=white)
+
+**ML & Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+**Learning**
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Crossplane](https://img.shields.io/badge/Crossplane-4E96D0?style=flat)
+
+---
+
+### Pinned Projects
+
+| Project | Tech | What it does |
+|---------|------|-------------|
+| [RCC-Cancer-Diagnostics](https://github.com/D-Kumar19/RCC-Cancer-Diagnostics) | Python, TensorFlow, SVM, CNN, Transformers | BSc thesis: 97% accuracy Renal Cell Carcinoma detection from MRI/CT scans |
+| [CI-CD-github-actions](https://github.com/D-Kumar19/CI-CD-github-actions) | Tekton, GitHub Actions, K8s | CI/CD pipeline labs with Tekton catalog, unit test automation, K8s deployment |
+| [tdd_bdd_practice](https://github.com/D-Kumar19/tdd_bdd_practice) | Python, Nose, Behave, Docker | TDD/BDD labs: test fixtures, mocking, factories, BDD feature files |
+| [DevOps-Capstone](https://github.com/D-Kumar19/devops-capstone-project) | Python, Flask, Tekton, OpenShift | End-to-end DevOps capstone: TDD/BDD, containerization, CI/CD, K8s deployment |
+
+---
+
+### Certifications
+
+- **CKA** (Certified Kubernetes Administrator) — preparing, target July 2026
+- **IBM DevOps and Software Engineering Professional Certificate** — [Credly](https://www.credly.com/)
+- **IBM Applied DevOps Engineering Specialization** — Coursera
+- **Software Development Lifecycle** — University of Minnesota, Coursera
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d-kumar19&show_icons=true&locale=en" alt="d-kumar19" title="GitHub Stats - Dheeraj Kumar"/>
-</p> -->
-
-
-<h3 align="center">📈 My Contributions</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-kumar19&" alt="d-kumar19" title="GitHub Contributions - Dheeraj Kumar"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-kumar19&" alt="d-kumar19" />
 </p>
